@@ -1,2 +1,2 @@
 # Rancher Deployment for Google Cloud Platform
-https://rancher.104.155.71.122.sslip.io
+# Tutorial paso a paso: https://ranchermanager.docs.rancher.com/getting-started/quick-start-guides/deploy-rancher-manager/gcp
